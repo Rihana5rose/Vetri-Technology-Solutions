@@ -141,7 +141,7 @@ Locations
 Candidate-related insights
 AI Insights Dashboard
 
-## Provides additional business-oriented insights derived from the combined job and candidate analysis.
+Provides additional business-oriented insights derived from the combined job and candidate analysis.
 
 📂 Repository Structure
 Vetri-Technology-Solutions/
@@ -177,7 +177,7 @@ Vetri-Technology-Solutions/
 │
 └── README.md
 
-## 💡 Key Outcomes
+💡 Key Outcomes
 Identified important patterns in the IT job market.
 Analyzed job opportunities across locations, roles and work modes.
 Examined skills and experience requirements.
